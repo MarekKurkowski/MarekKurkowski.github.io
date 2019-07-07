@@ -1,0 +1,67 @@
+{
+    "products" : [
+        {
+            "name" : "Gates",
+            "description" : "A complete collection of gates for modern buildings or estates, including: wrought iron gates, crafted gates, wing gates, sliding gates, gates to tenements or wickets",
+			"link": "1"
+        },
+        {
+            "name" : "Fences",
+            "description" : "A modern alternative for well known aluminium, plastic (PVC) or wood fencing. We offer a range of wrought iron and other metal fences",
+			"link": "2"
+        },
+        {
+            "name" : "Stairs & Balustrades",
+            "description" : "Creating individually designed stairs, balustrades and handrails that suit your tastes and the style and scale of your property (outdoor and indoor)",
+			"link": "3"
+        },
+		{
+			"name" : "Restoration",
+			"description" : "Restoring and conserving irreplaceable treasures from the past centuries that requires the same mastery of techniques and materials from our modern-day smiths",
+			"link": "4"
+		},
+        {
+            "name" : "Lighting",
+            "description" : "Outdoor lanterns, street lighting and fixtures as well as metal lamps, shades, candlesticks and chandeliers for home - decorative design and modern minimalist forms",
+			"link": ""
+        },
+        {
+            "name" : "Furniture",
+            "description" : "Producing handmade tables, chairs, benches, shelfs, shelves, stools forged, upholstered stools, hangers and metal furniture",
+			"link": ""
+        },
+        {
+            "name" : "Decorations",
+            "description" : "Creating original ornamental wrought ironwork demanded exceptional skill from the our modern-day smiths (frames, sconces, racks, mailboxes, singboards, hangers and handles)",
+			"link": ""
+        },
+        {
+            "name" : "Outdoor architecture",
+            "description" : "Working with brass, bronze, stainless steel, mild steel, wrought iron or cast iron to create benches, lamps and lanters, bins, bicycle stands, tables and information pillars, bus shelters, flowerpots or arbors",
+			"link": ""
+        },
+		{
+            "name" : "Steel constructions",
+            "description" : "A complete collection of kiosks, stops, sheds, pavilons, domes, shelves, pergolas and other special constructions demanded by our Clients",
+			"link": ""
+        },
+
+		{
+			"name" : "Forged grilles",
+			"description" : "Forged ornamental grilles for all historical constructions, such as manors, castles, tenement houses but also grilles to secure low windows, storage rooms, basements, doors or balconies",
+			"link": ""
+		},
+		{
+			"name" : "Ecclesiastical",
+			"description" : "Ironwork keeping with ancient features or with modern designs. We offer a wide selection of bars, candlesticks, fences and ecclesiastical metallurgical items",
+			"link": ""
+		},
+		{
+			"name" : "Individual projects",
+			"description" : "Creating original ornamental wrought ironwork based on individual design that suits your tastes and needs",
+			"link": ""
+		}
+
+    ]
+
+}
