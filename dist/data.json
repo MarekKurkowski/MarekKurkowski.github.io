@@ -3,7 +3,7 @@
         {
             "name" : "Gates",
             "description" : "A complete collection of gates for modern buildings or estates, including: wrought iron gates, crafted gates, wing gates, sliding gates, gates to tenements or wickets",
-			"link": "../assets/img/product_gate_1.jpg"
+			"link": "assets/img/product_gate_1.jpg"
         },
         {
             "name" : "Fences",
